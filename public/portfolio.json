@@ -1,0 +1,16 @@
+{
+	"portfolio":[
+		{"judul":"E-Voting Web App","project":"Laravel","desc":"E-Voting System Simulation Built with Laravel 8","gambar":"https://i.imgur.com/uyfqLJ4.png","link":"https://github.com/fikriomar16/evoting"},
+		{"judul":"Personal Website","project":"Website","desc":"Simple Personal Web Page built with HTML, CSS, & JS","gambar":"https://i.imgur.com/uTqAZ5Z.png","link":"https://github.com/fikriomar16/fikriomar16.github.io"},
+		{"judul":"Simple Startpage","project":"Website","desc":"Simple Startpage built with HTML, CSS, & JS","gambar":"https://i.imgur.com/CkjbVYM.png","link":"https://git.io/omar-startpage"},
+		{"judul":"Sistem Rekomendasi Smartphone Android","project":"Codeigniter","desc":"Sistem rekomendasi smartphone android berbasis web menggunakan metode SMART","gambar":"https://i.imgur.com/N77wLJ0.png","link":"https://github.com/fikriomar16/smart"},
+		{"judul":"Linux Theme Generator for Openbox","project":"Bash (Shell Scripting)","desc":"Generator tema untuk linux terkhusus yang menggunakan window manager openbox","gambar":"https://i.imgur.com/tbCtA5f.png","link":"https://github.com/fikriomar16/obtgen"},
+		{"judul":"MPD Applet","project":"Python","desc":"Indicator applet untuk pemutar musik MPD pada linux","gambar":"https://i.imgur.com/ImYMKo2.png","link":"https://github.com/fikriomar16/mpd-applet"},
+		{"judul":"Rofi-MPD","project":"Bash","desc":"Shell script for mpd that uses rofi to add songs, albums, playlist, jump to a song in the current playlist etc.","gambar":"https://i.imgur.com/r3fyDc4.png","link":"https://github.com/fikriomar16/rofi-mpd"},
+		{"judul":"Mafetch","project":"Bash","desc":"System info for Unix-like operating systems.","gambar":"https://i.imgur.com/jFXaA2G.png","link":"https://github.com/fikriomar16/mafetch"},
+		{"judul":"NCMPCPP with Albumart","project":"Bash","desc":"Showing album art in ncmpcpp using urxvt","gambar":"https://i.imgur.com/CcmpV6t.png","link":"https://github.com/fikriomar16/ncmpcpp-with-albumart"},
+		{"judul":"Instaget","project":"Bash","desc":"Skrip sederhana untuk mendownload gambar dari instagram","gambar":"https://i.imgur.com/Y4HGv0E.png","link":"https://github.com/fikriomar16/instaget"},
+		{"judul":"Project Kerja Praktik","project":"PHP Native","desc":"Sistem pengadaan barang berbasis web","gambar":"https://i.imgur.com/jQ7RBRj.png","link":"https://github.com/fikriomar16/kp"},
+		{"judul":"Dotfiles","project":"Bash","desc":"Kumpulan file konfigurasi yang digunakan dalam OS GNU/Linux saya","gambar":"https://i.imgur.com/p5AiWvd.png","link":"https://github.com/fikriomar16/dotfiles"}
+	]
+}

@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Web Profile
+> by: [fikriomar16](https://github.com/fikriomar16)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
