@@ -5,6 +5,7 @@ import Beranda from '../pages/Beranda';
 import Profil from '../pages/Profil';
 import Portfolio from '../pages/Portfolio';
 import Kontak from '../pages/Kontak';
+import NotFound from '../pages/NotFound';
 
 function Router(props) {
 	return (
@@ -21,6 +22,7 @@ function Router(props) {
 			<Route path="/kontak">
 				<Navbar><Kontak/></Navbar>
 			</Route>
+			<Route path="*" component={NotFound}/>
 		</Switch>
 	);
 }
