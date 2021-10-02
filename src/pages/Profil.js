@@ -31,7 +31,7 @@ function Profil(props) {
 								<img src={foto} alt="Foto" className="img-fluid shadow mb-3 rounded-3 fotowarna" />
 							</div>
 							<div className="col-lg-auto my-2 px-4 px-lg-0">
-								<h4 class="fw-bold text-light paragraf mb-4 teks">Berikut biodata saya:</h4>
+								<h4 className="fw-bold text-light paragraf mb-4 teks">Berikut biodata saya:</h4>
 								<div className="row text-light justify-content-between g-0">
 									<div className="col-lg-auto teks">
 										<p className="fs-5"><i className="bi bi-caret-right-fill text-info small"></i>&nbsp;<strong>Nama Lengkap : </strong>Mohammad Fikri Omar</p>
@@ -50,11 +50,11 @@ function Profil(props) {
 								<div className="card bg-transparent border-0">
 									<div className="card-body">
 										<div className="text-center">
-											<button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#dataVerif">
+											<button className="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#dataVerif">
 												Untuk Verifikasi Data Kelulusan Dapat Scan Di Bawah Ini
 											</button>
 										</div>
-										<div class="collapse" id="dataVerif">
+										<div className="collapse" id="dataVerif">
 											<img src={qrcode} alt="qrcode" className="qrcode d-block mx-auto img-fluid rounded-3 shadow-sm my-4" />
 										</div>
 									</div>
@@ -71,17 +71,17 @@ function Profil(props) {
 						<div className="row h-100 justify-content-center pt-3">
 							<div className="col-lg-auto my-auto study px-4 px-lg-0">
 								<div className="card card-body border-0 rounded-3 shadow">
-									<div class="study-item">
+									<div className="study-item">
 										<h4>Universitas Teknologi Yogyakarta</h4>
 										<h5>2015 - 2021</h5>
 										<p><em>Program Studi Informatika</em></p>
 									</div>
-									<div class="study-item">
+									<div className="study-item">
 										<h4>Madrasah Aliyah Negeri 1 Magelang</h4>
 										<h5>2012 - 2015</h5>
 										<p><em>Jurusan IPA</em></p>
 									</div>
-									<div class="study-item">
+									<div className="study-item">
 										<h4>Sekolah Menengah Pertama Negeri 1 Kendari</h4>
 										<h5>2010 - 2012</h5>
 									</div>
@@ -98,8 +98,8 @@ function Profil(props) {
 						<div className="row h-100 justify-content-center pt-3">
 							<div className="col-lg-auto my-auto study px-4 px-lg-0">
 								<div className="card card-body border-0 rounded-3 shadow">
-									<div class="study-item">
-										<div class="text-center">
+									<div className="study-item">
+										<div className="text-center">
 											<h5 className="fw-bold text-primary ">Pengalaman Kerja Praktik</h5>
 										</div>
 										<h4>Software Developer</h4>
@@ -107,16 +107,16 @@ function Profil(props) {
 										<p><strong>Tempat : </strong>Puskesmas 1 Mlati, Sleman</p>
 										<p><em>Membuat Sistem Pengadaan Barang Berbasis Web</em></p>
 									</div>
-									<div class="study-item">
-										<div class="text-center">
+									<div className="study-item">
+										<div className="text-center">
 											<h5 className="fw-bold text-primary ">Pengalaman Kompetisi Nasional</h5>
 										</div>
 										<h4>Kompetisi Nasional Born to Protect</h4>
 										<h5>2018</h5>
 										<p><strong>Diselenggarakan oleh : </strong>Kemkominfo</p>
 									</div>
-									<div class="study-item">
-										<div class="text-center">
+									<div className="study-item">
+										<div className="text-center">
 											<h5 className="fw-bold text-primary ">Pengalaman Workshop</h5>
 										</div>
 										<h4>Workshop C-HACKTRAK</h4>
