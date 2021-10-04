@@ -31,7 +31,7 @@ function Kontak(props) {
 		}).catch(error => console.error('Error! ', error.message));
 	}
 	return (
-		<div className="py-4 min-vh-100">
+		<div className="py-4">
 			<div className="container">
 				<div className="row h-100 justify-content-start pb-4">
 					<div className="col-lg-auto my-auto">

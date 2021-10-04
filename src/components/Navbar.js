@@ -18,7 +18,7 @@ function Navbar({children}) {
 	}
 	window.addEventListener('scroll',navbarShrink)
 	return (
-		<div className="bg-custom">
+		<div className="bg-custom min-vh-100">
 			<nav className={`navbar navbar-expand-lg sticky-top rounded-bottom navbar-dark ${nav}`} id="mainNav">
 				<div className="container">
 					<NavLink className="navbar-brand fw-bold mx-4" to="/"><i className="bi bi-laptop"></i></NavLink>
