@@ -141,13 +141,15 @@ function Profil(props) {
 								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>PHP</strong></p>
 							</div>
 							<div className="col-lg-auto my-auto">
-								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>JavaScript</strong></p>
+								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>Javascript</strong></p>
+								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>Jquery</strong></p>
+								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>MySQL</strong></p>
 								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>Bootstrap</strong></p>
-								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>CSS</strong></p>
-								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>HTML</strong></p>
 							</div>
 							<div className="col-lg-auto my-auto">
 								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>Bash (Shell Scripting)</strong></p>
+								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>CSS</strong></p>
+								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>HTML</strong></p>
 								<p className="fs-5"><i className="bi bi-caret-right text-info"></i>&nbsp;<strong>React.js (Ongoing...)</strong></p>
 							</div>
 						</div>
