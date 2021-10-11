@@ -119,7 +119,7 @@ function Profil(props) {
 										<div className="text-center">
 											<h5 className="fw-bold text-primary ">Pengalaman Workshop</h5>
 										</div>
-										<h4>Workshop C-HACKTRAK</h4>
+										<h4>Workshop C-HACKTRACK</h4>
 										<h5>2017</h5>
 										<p><strong>Diselenggarakan di : </strong>Universitas Pembangunan Negeri "Veteran" Yogyakarta</p>
 									</div>
